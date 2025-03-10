@@ -1,0 +1,77 @@
+在数学中，\(\sin\) 和 \(\cos\) 是三角函数，分别表示正弦和余弦。
+
+1. **正弦函数 (\(\sin\))**：
+   - 定义：在直角三角形中，\(\sin \theta\) 等于对边长度与斜边长度的比值。
+   - 公式：\(\sin \theta = \frac{\text{对边}}{\text{斜边}}\)
+   - 在单位圆中，\(\sin \theta\) 是角度 \(\theta\) 对应的 y 坐标。
+
+2. **余弦函数 (\(\cos\))**：
+   - 定义：在直角三角形中，\(\cos \theta\) 等于邻边长度与斜边长度的比值。
+   - 公式：\(\cos \theta = \frac{\text{邻边}}{\text{斜边}}\)
+   - 在单位圆中，\(\cos \theta\) 是角度 \(\theta\) 对应的 x 坐标。
+
+**应用**：
+- 几何：用于计算三角形的边长和角度。
+- 物理：描述波动、振动等现象。
+- 工程：信号处理、机械设计等领域。
+
+**示例**：
+- 在直角三角形中，若斜边为 1，角度为 \(30^\circ\)，则：
+  - \(\sin 30^\circ = 0.5\)
+  - \(\cos 30^\circ \approx 0.866\)
+
+总结：\(\sin\) 和 \(\cos\) 是基本的三角函数，用于描述角度与边长的关系，广泛应用于多个领域。
+
+
+以下是 \(\sin\) 和 \(\cos\) 函数的图形展示：
+
+---
+
+### **1. 单位圆中的 \(\sin\) 和 \(\cos\)**
+在单位圆（半径为 1 的圆）中：
+- \(\sin \theta\) 是角度 \(\theta\) 对应的 y 坐标。
+- \(\cos \theta\) 是角度 \(\theta\) 对应的 x 坐标。
+
+![Unit Circle](https://www.mathsisfun.com/geometry/images/unit-circle-sin-cos-tan.svg)
+
+- 图中，\(P\) 点的坐标是 \((\cos \theta, \sin \theta)\)。
+- 当 \(\theta\) 变化时，\(\sin \theta\) 和 \(\cos \theta\) 的值会在 \([-1, 1]\) 之间变化。
+
+---
+
+### **2. \(\sin\) 和 \(\cos\) 的函数图像**
+\(\sin\) 和 \(\cos\) 是周期为 \(2\pi\) 的周期函数，图像如下：
+
+#### **\(\sin x\) 的图像**
+- 从 \(0\) 开始，先上升到 \(1\)，再下降到 \(-1\)，最后回到 \(0\)。
+- 图像是一个波浪形，称为正弦波。
+
+![Sine Wave](https://www.mathsisfun.com/algebra/images/sine-graph.svg)
+
+#### **\(\cos x\) 的图像**
+- 从 \(1\) 开始，先下降到 \(-1\)，再上升到 \(1\)，最后回到 \(1\)。
+- 图像也是一个波浪形，称为余弦波。
+
+![Cosine Wave](https://www.mathsisfun.com/algebra/images/cosine-graph.svg)
+
+---
+
+### **3. \(\sin\) 和 \(\cos\) 的关系**
+- \(\cos x\) 是 \(\sin x\) 向左平移 \(\frac{\pi}{2}\) 的结果，即：
+  \[
+  \cos x = \sin\left(x + \frac{\pi}{2}\right)
+  \]
+- 两者图像形状相同，只是相位不同。
+
+---
+
+### **4. 动态演示**
+如果你想要更直观的理解，可以访问以下链接查看动态演示：
+- [Sine and Cosine on Unit Circle (Desmos)](https://www.desmos.com/calculator/w0rkrw0qkz)
+- [Sine and Cosine Graphs (GeoGebra)](https://www.geogebra.org/m/W7dAdgqc)
+
+---
+
+总结：
+- \(\sin\) 和 \(\cos\) 的图像是周期为 \(2\pi\) 的波浪形。
+- \(\sin\) 从 \(0\) 开始，\(\cos\) 从 \(1\) 开始，两者相位相差 \(\frac{\pi}{2}\)。
